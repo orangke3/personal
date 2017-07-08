@@ -1,0 +1,70 @@
+		
+		header{
+			background: #E7E7E7;
+		}
+
+		header h1{
+			color: #212121;
+
+		}
+/* Custom CSS*/
+		#section1,
+		#section2,
+		#section3{
+			background-size: cover;
+			background-attachment: fixed;
+			background : #E7E7E7;
+		}
+
+		/* Section 1
+		 * --------------------------------------- */
+		#section1 h1{
+			color: #000;
+		}
+		#section1 p{
+			color: #000;
+			opacity: 0.6;
+		}
+		
+		/* Section 2
+		 * --------------------------------------- */
+		#section2 h1{
+			color: #000;
+		}
+		#section2 p{
+			color: #fff;
+			opacity: 0.6;
+		}
+
+		/* Section 3 portofolio
+		 * --------------------------------------- */
+		#section3 h1{
+			color: #000;
+		}
+		#section3 p{
+			color: #000;
+			opacity: 0.6;
+		}
+
+		/* Section 4
+		 * --------------------------------------- */
+		#section4{
+			background-color: #E7E7E7;
+		}
+		#section4 h1{
+			color: #E7E7E7;
+		}
+		#section4 p{
+			opacity: 0.6;
+		}
+		
+/*	SOCIAL MEDIA */
+	.socmed li{
+		background: #212121;		
+	}
+	.socmed a:link {
+		color: #b69877;
+	}
+	.socmed a:visited {
+		color: #b69877;
+	}
